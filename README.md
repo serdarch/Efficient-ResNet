@@ -1,5 +1,8 @@
 # Efficient-ResNet
 
+Deep Learning Baseline Architecture for Classification, Detection, Segmentation, and Synthesis, 
+Erisen, S., 2024
+
 [![[CVPR 2024 Workshops] YouTube Video](https://img.shields.io/badge/CVPRW'24-YouTube-blue)](https://youtu.be/XXzMkotcdb4?feature=shared) |
 [![ArXiv paper](https://img.shields.io/badge/SERNetFormer-ArXiv-red)](https://doi.org/10.48550/arXiv.2401.15741)
 
