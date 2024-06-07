@@ -23,4 +23,11 @@
   journal={arXiv preprint arXiv:2401.15741},
   year={2024}
 }
+
+@inproceedings{Erisen2024CVPRW,
+  title={SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks},
+  author={Erişen, Serdar},
+  booktitle={CVPRW},
+  year={2024},
+}
 ```
