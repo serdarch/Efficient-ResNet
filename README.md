@@ -14,11 +14,13 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sernet-former-semantic-segmentation-by/semantic-segmentation-on-cityscapes)](https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes?p=sernet-former-semantic-segmentation-by)
 
-# Citation
+# Citations
 
+```bibtex
 @article{Erisen2024SERNetFormer,
   title={SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks},
   author={Erişen, Serdar},
   journal={arXiv preprint arXiv:2401.15741},
   year={2024}
 }
+```
