@@ -1,4 +1,4 @@
-%% Serdar Erişen, 2024
+<!-- Serdar Erişen, 2024  -->
 # Model Zoo
 
 ## Classification Networks 
